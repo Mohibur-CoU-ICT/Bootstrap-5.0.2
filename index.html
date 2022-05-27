@@ -16,8 +16,19 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col col-md-4 offset-md-8 box-1">Box-1</div>
-            <div class="col col-md-4 offset-md-4 box-2">Box-2</div>
+            <div class="col col-md-4 box-1">(Box-1) Without Order</div>
+            <div class="col col-md-4 order-first box-2">(Box-2) Order First</div>
+            <div class="col col-md-4 order-last box-3">(Box-3) Order last</div>
+        </div>
+        <div class="row">
+            <div class="col col-md-4 order-2 box-1">(Box-1) Order 2</div>
+            <div class="col col-md-4 order-1 box-2">(Box-2) Order 1</div>
+            <div class="col col-md-4 order-0 box-3">(Box-3) Order 0</div>
+        </div>
+        <div class="row">
+            <div class="col col-md-4 order-md-2 box-1">(Box-1) Order 2</div>
+            <div class="col col-md-4 order-md-1 box-2">(Box-2) Order 1</div>
+            <div class="col col-md-4 order-md-0 box-3">(Box-3) Order 0</div>
         </div>
     </div>
 </body>
