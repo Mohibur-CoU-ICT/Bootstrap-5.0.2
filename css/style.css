@@ -11,17 +11,21 @@
 }
 
 .box-1 {
+    min-height: 100px;
     background: yellow;
 }
 
 .box-2 {
+    min-height: 100px;
     background: orange;
 }
 
 .box-3 {
+    min-height: 100px;
     background: pink;
 }
 
 .box-4 {
+    min-height: 100px;
     background: blue;
 }
