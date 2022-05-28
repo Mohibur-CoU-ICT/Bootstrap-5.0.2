@@ -11,21 +11,29 @@
 }
 
 .box-1 {
-    min-height: 100px;
     background: yellow;
 }
 
 .box-2 {
-    min-height: 100px;
     background: orange;
 }
 
 .box-3 {
-    min-height: 100px;
     background: pink;
 }
 
 .box-4 {
-    min-height: 100px;
     background: blue;
+}
+
+.f-36 {
+    font-size: 36px;
+}
+
+.f-18 {
+    font-size: 18px;
+}
+
+.f-24 {
+    font-size: 24px;
 }
