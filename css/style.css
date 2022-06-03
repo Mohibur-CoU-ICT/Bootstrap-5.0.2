@@ -8,23 +8,27 @@
 
 .row {
     border: 10px solid magenta;
-    height: 400px;
+    /* height: 400px; */
 }
 
-.box-1 {
+.yellow {
     background: yellow;
 }
 
-.box-2 {
+.orange {
     background: orange;
 }
 
-.box-3 {
+.pink {
     background: pink;
 }
 
-.box-4 {
+.blue {
     background: blue;
+}
+
+.cyan {
+    background: cyan;
 }
 
 .f-36 {
